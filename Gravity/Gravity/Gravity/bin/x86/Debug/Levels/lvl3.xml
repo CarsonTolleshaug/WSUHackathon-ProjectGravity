@@ -1,0 +1,18 @@
+<level>
+	<player x="150" y="45"/>
+
+	<box x="200" y="45" width="30" height="30" />
+	<box x="400" y="45" width="30" height="30" />
+
+	<laser x="140" y="330" direction="r" />
+	<laser x="320" y="540" direction="u" />
+
+	<floor x="100" y="50" width="40" height="260" />
+	<floor x="140" y="150" width="160" height="160" />
+	<floor x="340" y="150" width="160" height="160" />
+	<floor x="440" y="350" width="200" height="100" />
+	<floor x="340" y="520" width="400" height="30" />
+	<floor x="580" y="50" width="80" height="220" />
+
+	<win x="520" y="450" width="60" height="70" />
+</level>
